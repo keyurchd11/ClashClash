@@ -1,5 +1,11 @@
 # ClashClash
 
+A terminal-based version of Clash Of Clans using Python and OOPs principles.
+
+<p align="center">
+    <img src="gameplay.gif" width="512"/>
+</p>
+
 ## Object-Oriented Programming
 
 Python Game
