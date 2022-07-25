@@ -44,13 +44,14 @@ Spells:
 <kbd>r</kbd> - Activate the ``rage spell``, which doubles the speed and damage done by the troops <br>
 <kbd>h</kbd> - Activate the ``heal spell``, which can heal a troop upto 1.5 times its current health. <br>
 
-Attacking using King:
+Attack using King:
+
 <kbd>i</kbd> - Attack one cell up <br>
 <kbd>j</kbd> - Attack one cell left <br>
 <kbd>k</kbd> - Attack one cell down <br>
 <kbd>l</kbd> - Attack one cell right <br>
 
-Attacking using Queen:
+Attack using Queen:
 
 <kbd>space</kbd>: Normal attack <br>
 <kbd>m</kbd>: Archer Queen’s eagle arrow attack <br>
